@@ -1,7 +1,7 @@
 # Análisis Estadístico y Predicción de Rendimiento en Col (Brassica oleracea)
 
 ## Descripción del Proyecto
-Este repositorio contiene un flujo de trabajo completo de análisis de datos enfocado en evaluar y predecir el rendimiento agrícola basándose en tratamientos experimentales (Fertilización Nitrogenada, Densidad de Población y Acolchado). El proyecto utiliza datos históricos de campo para identificar prácticas agronómicas óptimas e implementa un modelo de Machine Learning para estimar la biomasa utilizando sensores no destructivos.
+Este repositorio contiene un flujo de trabajo completo de análisis de datos enfocado en evaluar y predecir el rendimiento agrícola basándose en tratamientos experimentales (Fertilización Nitrogenada y Acolchado). El proyecto utiliza datos históricos de campo para identificar prácticas agronómicas óptimas e implementa un modelo de Machine Learning para estimar la biomasa utilizando sensores no destructivos.
 
 ## Estructura del Proyecto
 * `data/`: Conjunto de datos crudos (raw dataset) provenientes de experimentos de campo (.csv).
@@ -29,4 +29,5 @@ Para replicar este análisis:
 
 ## Autor
 Miguel Angel Lopez Veloz
+
 Estudiante de Ingeniería en Desarrollo de software | Entusiasta del Análisis de Datos
