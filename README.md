@@ -12,6 +12,15 @@ Este repositorio contiene un flujo de trabajo completo de análisis de datos enf
 1. **Ingeniería de Datos:** Pipeline de limpieza automatizada para detectar y eliminar valores atípicos (outliers) de registros manuales de campo.
 2. **Análisis Experimental:** Evaluación del impacto de dosis de 125 kg/ha de Nitrógeno vs. Grupos Testigo, estableciendo al "Suelo Desnudo" como el tratamiento de mayor rendimiento bajo las condiciones probadas.
 3. **Modelado Predictivo:** Modelo de Regresión Lineal que correlaciona el Índice de Vegetación de Diferencia Normalizada (NDVI) con la biomasa del cultivo, logrando un R-cuadrado (R²) de 0.80.
+4. ### Visualización de Resultados
+
+**1. Distribución de Rendimiento por Tratamiento**
+![Boxplot de Rendimiento](images/TU_ARCHIVO_DEL_BOXPLOT.png)
+*(Aquí se observa cómo el suelo desnudo supera al acolchado en las condiciones del estudio)*
+
+**2. Predicción de Cosecha con IA**
+![Regresión Lineal](images/TU_ARCHIVO_DE_REGRESION.png)
+*(Modelo predictivo con R²=0.80 correlacionando NDVI y Biomasa)*
 
 ## Instalación y Uso
 Para replicar este análisis:
@@ -31,3 +40,4 @@ Para replicar este análisis:
 Miguel Angel Lopez Veloz
 
 Estudiante de Ingeniería en Desarrollo de software | Entusiasta del Análisis de Datos
+
